@@ -84,3 +84,4 @@ All AI-generated code was reviewed and modified to maintain correctness and assi
 
 ## 10. Conclusion
 This technical documentation summarizes the implementation details of the portfolio project, explaining the structure, functionality, and AI-assisted development workflow. The project demonstrates proficiency in HTML, CSS, and JavaScript, along with responsible and effective use of AI tools for coding support.
+
