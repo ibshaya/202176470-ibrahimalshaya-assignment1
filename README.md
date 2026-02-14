@@ -12,7 +12,7 @@ git clone <[https://github.com/ibshaya/202176470-ibrahimalshaya-assignment1.git]
 
 Navigate to the project folder:
 
-cd <project-folder>
+cd <202176470-ibrahimalshaya-assignment1>
 
 
 Open index.html in your browser to view the portfolio locally.
