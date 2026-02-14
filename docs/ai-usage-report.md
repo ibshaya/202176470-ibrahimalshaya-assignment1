@@ -9,7 +9,7 @@ Used for AI-assisted code generation, including generating sample HTML sections,
 
 ## Benefits & Challenges
 
-Benefits:
+### Benefits:
 
 Accelerated development by providing structured examples and reusable code snippets.
 
@@ -17,7 +17,7 @@ Helped clarify best practices for responsive web design and UI organization.
 
 Assisted in debugging and validating JavaScript logic, saving time on trial-and-error.
 
-## Challenges:
+### Challenges:
 
 Some generated code required manual review to ensure it adhered to the project requirements and personal coding style.
 
