@@ -4,20 +4,21 @@
 This project is a simple, responsive personal portfolio web application built using HTML, CSS, and JavaScript. It demonstrates fundamental web development skills, responsive design techniques, and AI-assisted development. The portfolio includes three main sections: About Me, Projects, and Contact, with additional interactivity features and AI-supported enhancements.
 
 ## 2. Folder Structure
- assignment-1/
-├── README.md
-├── index.html
+```
+assignment-1/
+├── README.md # Project overview and setup instructions
+├── index.html # Main HTML page
 ├── css/
-│   └── styles.css
+│ └── styles.css # CSS styling for layout and responsiveness
 ├── js/
-│   └── script.js
+│ └── script.js # JavaScript for interactivity
 ├── assets/
-│   └── images/
+│ └── images/ # Placeholder and profile images
 ├── docs/
-│   ├── ai-usage-report.md
-│   └── technical-documentation.md
-└── .gitignore
-
+│ ├── ai-usage-report.md # AI tools used and workflow explanation
+│ └── technical-documentation.md # This file
+└── .gitignore # Files/folders to ignore in Git
+```
 
 
 Each folder has a specific role:
