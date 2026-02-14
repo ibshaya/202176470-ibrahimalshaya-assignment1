@@ -18,4 +18,4 @@ cd 202176470-ibrahimalshaya-assignment1
 
 # AI Usage Summary
 
-AI tools were used to support development and enhance workflow. ChatGPT assisted in planning the folder structure, organizing files, and suggesting responsive design best practices. Claude helped generate sample HTML, CSS, and JavaScript code for sections, styling, and interactivity features. All AI-generated code was reviewed, tested, and modified to ensure correctness, originality, and alignment with project requirements. Detailed AI usage is documented in <https://github.com/ibshaya/202176470-ibrahimalshaya-assignment1/blob/main/docs/ai-usage-report.md>docs/ai-usage-report.md.
+AI tools were used to support development and enhance workflow. ChatGPT assisted in planning the folder structure, organizing files, and suggesting responsive design best practices. Claude helped generate sample HTML, CSS, and JavaScript code for sections, styling, and interactivity features. All AI-generated code was reviewed, tested, and modified to ensure correctness, originality, and alignment with project requirements. Detailed AI usage is documented in <docs/ai-usage-report.md>
