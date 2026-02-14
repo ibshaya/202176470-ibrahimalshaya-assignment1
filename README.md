@@ -1,4 +1,4 @@
-README.md
+
 Project Description
 
 This is a personal portfolio website built with HTML, CSS, and JavaScript. It showcases projects, an “About Me” section, and interactive UI features, designed with a focus on responsive design and modular structure.
