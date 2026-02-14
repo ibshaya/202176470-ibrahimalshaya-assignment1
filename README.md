@@ -7,7 +7,7 @@ Setup Instructions
 
 Clone the repository:
 
-git clone <https://github.com/ibshaya/202176470-ibrahimalshaya-assignment1.git> 
+git clone <repository-url>
 
 
 Navigate to the project folder:
