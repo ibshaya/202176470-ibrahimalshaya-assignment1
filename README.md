@@ -7,7 +7,7 @@ This is a personal portfolio website built with HTML, CSS, and JavaScript. It sh
 
 Clone the repository:
 
-git clone <repository-url>
+git clone <[repository-url](https://github.com/ibshaya/202176470-ibrahimalshaya-assignment1.git)>
 
 
 Navigate to the project folder:
