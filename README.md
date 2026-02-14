@@ -1,21 +1,20 @@
 
-## Project Description
+# Project Description
 
 This is a personal portfolio website built with HTML, CSS, and JavaScript. It showcases projects, an “About Me” section, and interactive UI features, designed with a focus on responsive design and modular structure.
 
-## Setup Instructions
+# Setup Instructions
 
-Clone the repository:
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/ibshaya/202176470-ibrahimalshaya-assignment1.git
 
-# Navigate to the project folder
+## Navigate to the project folder
 cd 202176470-ibrahimalshaya-assignment1
 
 
 
-Open index.html in your browser to view the portfolio locally.
+## Open index.html in your browser to view the portfolio locally.
 
 ## AI Usage Summary
 
